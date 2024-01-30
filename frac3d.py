@@ -147,6 +147,7 @@ if __name__ == "__main__":
         
     if make_animation:
         # Animation
+        print('making animaton..')
         ani = animation.FuncAnimation(fig, update_azimuth, frames=np.arange(0, 360, 5), interval=50)
         ani.save(filename+'voxel_rotation.gif', writer='pillow')
     
