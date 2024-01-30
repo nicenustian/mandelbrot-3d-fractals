@@ -1,6 +1,11 @@
-# create moidifed mandelbrot fractals in 3d
 
+
+# create moidifed mandelbrot fractals in 3d
 set params manually or get random fractals
+![Uploading voxel_rotation1.gif…]()
+![voxel_rotation2](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/af3067ed-9ce8-4885-8452-c5aadae4091a)
+
+
 
 # manual
 
