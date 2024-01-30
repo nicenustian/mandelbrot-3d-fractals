@@ -1,12 +1,11 @@
 
 
-# create minecraft like structures with modified mandelbrot fractals in 3d
+# Create minecraft like structures with modified mandelbrot fractals in 3d
 set params manually or get random fractals
 
 ![voxel_rotation2](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/af3067ed-9ce8-4885-8452-c5aadae4091a)
-![voxel_rotation1](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/53a87138-de26-4702-a5ad-5fdcf8423e0d)
+![mandel_N128_pow3_val2_iter256_off 0, 0, 0](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/115d6e90-6ec2-4d49-965b-249d7e1cde8f)
 
-![mandel_N58_pow2_val1_iter124_off 2 1 1](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/3f0e11ef-6052-4574-b879-5da59877c156)
 ![mandel_N51_pow2_val1_iter23_off 0 0 0](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/eb3b6eed-7ccb-4618-90ca-2deddd676bf4)
 ![mandel_N32_pow2_val1_iter101_off 2 2 0](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/8f7bb45d-21ac-4ccc-82d3-93c8a90d4bcb)
 ![mandel_N27_pow2_val1_iter188_off 1 0 0](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/90e04ba9-fe68-41c5-9571-4640e8508e96)
