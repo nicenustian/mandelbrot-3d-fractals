@@ -14,7 +14,7 @@ set params manually or get random fractals
 ![mandel_N34_pow2_val1_iter194_off 1 1 0](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/ae94f056-1eac-4a35-b1a8-32f3552ad110)
 ![mandel_N64_pow2_val2_iter2_off 0, 1, 1](https://github.com/nicenustian/mandelbrot-3d-fractals/assets/111900566/ce57a2ef-d2e0-441a-b2ea-ab29104dd462)
 
-# manual
+# Manual set the params
 
 ```python
     # Uncomment if you wan to generate fractals with constant params
@@ -33,7 +33,7 @@ set params manually or get random fractals
     offset = [[0,0,0]]
     num_voxels = len(grids)
 ```
-# random
+# Random fractals stacked together
 
 ```python
     # Uncomment if you wan to generate fractals with random params
@@ -49,7 +49,7 @@ set params manually or get random fractals
     abs_values = np.random.randint(1, 2, size=num_voxels)
 ```
 
-# change Equations
+# Change Equations (volcanic, symmetric)
 
 ```python
                 # valcanic type shapes
