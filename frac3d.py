@@ -83,7 +83,7 @@ if __name__ == "__main__":
     # # max tieration for a given pixel
     # max_iters = [8]
     # # power of the complex number
-    # powers = [1]
+    # powers = [2]
     # #abs values for cut off for fractals 
     # abs_values = [2]
     # # offset in the real space x,y,z
