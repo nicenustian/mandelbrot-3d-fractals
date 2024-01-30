@@ -99,7 +99,7 @@ if __name__ == "__main__":
     # size of grid for given fractal
     grids = np.sort(np.random.randint(8, 64, size=num_voxels))
     max_iters = np.random.randint(8, 256, size=num_voxels)
-    powers = np.sort(np.random.randint(1, 3, size=num_voxels))
+    powers = np.sort(np.random.randint(2, 4, size=num_voxels))
     offset = np.random.randint(0, np.max(grids), size=(num_voxels, 3))
     off = np.random.randint(0, 3, size=(num_voxels, 3))
     abs_values = np.random.randint(1, 2, size=num_voxels)
